@@ -1,2 +1,3 @@
 # Hello-world
-Myt hello world project
+My hello world project
+I am learning
